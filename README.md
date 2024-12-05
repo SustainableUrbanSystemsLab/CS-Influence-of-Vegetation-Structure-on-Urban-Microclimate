@@ -1,4 +1,4 @@
-# CS-Influence-of-Vegetation-Structure-on-Urban-Microclimate
+# Influence of Vegetation Structure on Urban Microclimate
 
 <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="250px">
 
