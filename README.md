@@ -1,18 +1,32 @@
 # Influence of Vegetation Structure on Urban Microclimate
 
-<img src="https://myoctocat.com/assets/images/base-octocat.svg" width="250px">
+<img "D:\GaTech Dropbox\Chinmay Rothe\UMCF\SS\24HRS lAPSE 2b gif.gif">
 
 ## Abstract
 
-[Provide a brief summary of your thesis, highlighting the main research question, methodology, and key findings.]
+The importance of vegetation in mitigating the urban heat island effect by cooling the urban microclimate cannot be overstated, 
+especially given the rapid urbanization that impacts it. Urban microclimate parameters, such as temperature and humidity 
+changes in the atmosphere, further influence the adverse effects on outdoor thermal comfort.  
+This study examines vegetation’s cooling potential by evaluating different characteristics, such as stomatal resistance, moisture 
+content, leaf temperature, and heat transfer coefficients, among different tree sizes. The primary objective is to simulate an 
+urban scenario using urbanmicroclimateFOAM, incorporating detailed characteristics of a single vegetation species, Acer 
+rubrum (red maple), and an urban block model over multiple hours daily. Using an EPW file enables accurate input of local 
+climate data to optimize results. 
+The findings highlight the importance of tree size, stomatal resistance, LAD value, and wind speed in affecting the moisture 
+content and temperature of the surrounding environment, further affecting the cooling potential and thermal comfort. Moreover, 
+the effect of different-sized red maple trees on surrounding temperature and their location can considerably alter temperature 
+and moisture content. Furthermore, vegetation and climate parameters influence heat transfer and evapotranspiration, 
+highlighting their role in urban cooling.  
+Future research should expand on this work by examining different species and soil characteristics for a more comprehensive 
+understanding of the cooling potential through vegetation in the urban microclimate. 
 
 ## Author
 
-- Name: [Your Name]
-- Email: [Your Email Address]
-- Institution: [Your Institution]
-- Program: [Bachelor's/Master's/PhD]
-- Supervisor: [Supervisor's Name]
+- Name: Chinmay Rothe
+- Email: crothe3@gatech.edu
+- Institution: Georgia Institute of Technology
+- Program: M.S. Arch (High Performance Building)
+- Supervisor: Dr. Patrick kastner
 
 ## Repository Structure
 
@@ -26,7 +40,8 @@
 
 ## Keywords
 
-[List the main keywords or topics related to your thesis.]
+Urban microclimate, Vegetation, Stomatal Resistance, LAD, Moisture content, Relative humidity, Air 
+temperature 
 
 ## License
 
@@ -34,7 +49,13 @@
 
 ## Citation
 
-[Provide instructions on how to cite your thesis. Include the recommended citation format.]
+@masterscapstone{Rothe2024VegetationInfluence,
+  title = {Influence of Vegetation Structure on Urban Microclimate: A computational study on UHI mitigation using OpenFOAM},
+  author = {Rothe, Chinmay},
+  year = {2024},
+  school = {Georgia Institute of Technology},
+  type = {MS Capstone}
+}
 
 ## Contact
 
