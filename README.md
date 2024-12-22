@@ -1,6 +1,7 @@
 # Influence of Vegetation Structure on Urban Microclimate
 
-<img "D:\GaTech Dropbox\Chinmay Rothe\UMCF\SS\24HRS lAPSE 2b gif.gif">
+![24HRS lAPSE 2b gif](https://github.com/user-attachments/assets/171c7872-4413-4db2-baa8-878459d20200)
+
 
 ## Abstract
 
