@@ -24,6 +24,7 @@ understanding of the cooling potential through vegetation in the urban microclim
 ## Author
 
 - Name: Chinmay Rothe
+- LinkedIn: www.linkedin.com/in/chinmayrothe
 - Email: crothe3@gatech.edu
 - Institution: Georgia Institute of Technology
 - Program: M.S. Arch (High Performance Building)
@@ -60,4 +61,4 @@ temperature
 
 ## Contact
 
-For any questions or inquiries, please contact [Your Name] at [Your Email Address].
+For any questions or inquiries, please contact Chinmay Rothe at crothe3@gatech.edu / chinmayrothe.25@gmail.com.
