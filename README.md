@@ -31,8 +31,7 @@ The findings highlight the importance of tree size, stomatal resistance, LAD val
 
 ## Keywords
 
-`Urban microclimate`, `Vegetation`, `Stomatal Resistance`, `LAD`, `Moisture content`, `Relative humidity`, `Air 
-temperature`
+`Urban microclimate`, `Vegetation`, `Stomatal Resistance`, `LAD`, `Moisture content`, `Relative humidity`, `Air temperature`
 
 ## Citation
 
