@@ -36,7 +36,7 @@ The findings highlight the importance of tree size, stomatal resistance, LAD val
 ## Citation
 
 ```bibtex
-@masterscapstone{Rothe2024VegetationInfluence,
+@mastersthesis{Rothe2024VegetationInfluence,
   title = {Influence of Vegetation Structure on Urban Microclimate: A computational study on UHI mitigation using OpenFOAM},
   author = {Rothe, Chinmay},
   year = {2024},
