@@ -1,25 +1,14 @@
 # Influence of Vegetation Structure on Urban Microclimate
 
-![24HRS lAPSE 2b gif](https://github.com/user-attachments/assets/171c7872-4413-4db2-baa8-878459d20200)
-
+![24HRS lAPSE 2b gif](./Figures/GraphicalAbstract.gif)
 
 ## Abstract
 
-The importance of vegetation in mitigating the urban heat island effect by cooling the urban microclimate cannot be overstated, 
-especially given the rapid urbanization that impacts it. Urban microclimate parameters, such as temperature and humidity 
-changes in the atmosphere, further influence the adverse effects on outdoor thermal comfort.  
-This study examines vegetation’s cooling potential by evaluating different characteristics, such as stomatal resistance, moisture 
-content, leaf temperature, and heat transfer coefficients, among different tree sizes. The primary objective is to simulate an 
-urban scenario using urbanmicroclimateFOAM, incorporating detailed characteristics of a single vegetation species, Acer 
-rubrum (red maple), and an urban block model over multiple hours daily. Using an EPW file enables accurate input of local 
-climate data to optimize results. 
-The findings highlight the importance of tree size, stomatal resistance, LAD value, and wind speed in affecting the moisture 
-content and temperature of the surrounding environment, further affecting the cooling potential and thermal comfort. Moreover, 
-the effect of different-sized red maple trees on surrounding temperature and their location can considerably alter temperature 
-and moisture content. Furthermore, vegetation and climate parameters influence heat transfer and evapotranspiration, 
-highlighting their role in urban cooling.  
-Future research should expand on this work by examining different species and soil characteristics for a more comprehensive 
-understanding of the cooling potential through vegetation in the urban microclimate. 
+The importance of vegetation in mitigating the urban heat island effect by cooling the urban microclimate cannot be overstated, especially given the rapid urbanization that impacts it. Urban microclimate parameters, such as temperature and humidity changes in the atmosphere, further influence the adverse effects on outdoor thermal comfort.  
+
+This study examines vegetation’s cooling potential by evaluating different characteristics, such as stomatal resistance, moisture content, leaf temperature, and heat transfer coefficients, among different tree sizes. The primary objective is to simulate an urban scenario using urbanmicroclimateFOAM, incorporating detailed characteristics of a single vegetation species, Acerrubrum (red maple), and an urban block model over multiple hours daily. Using an EPW file enables accurate input of local climate data to optimize results.  
+
+The findings highlight the importance of tree size, stomatal resistance, LAD value, and wind speed in affecting the moisture content and temperature of the surrounding environment, further affecting the cooling potential and thermal comfort. Moreover, the effect of different-sized red maple trees on surrounding temperature and their location can considerably alter temperature and moisture content. Furthermore, vegetation and climate parameters influence heat transfer and evapotranspiration, highlighting their role in urban cooling. Future research should expand on this work by examining different species and soil characteristics for a more comprehensive understanding of the cooling potential through vegetation in the urban microclimate.  
 
 ## Author
 
@@ -42,15 +31,12 @@ understanding of the cooling potential through vegetation in the urban microclim
 
 ## Keywords
 
-Urban microclimate, Vegetation, Stomatal Resistance, LAD, Moisture content, Relative humidity, Air 
-temperature 
-
-## License
-
-[Specify the license under which your thesis and associated materials are distributed. For example, Creative Commons Attribution 4.0 International (CC BY 4.0).]
+`Urban microclimate`, `Vegetation`, `Stomatal Resistance`, `LAD`, `Moisture content`, `Relative humidity`, `Air 
+temperature`
 
 ## Citation
 
+```
 @masterscapstone{Rothe2024VegetationInfluence,
   title = {Influence of Vegetation Structure on Urban Microclimate: A computational study on UHI mitigation using OpenFOAM},
   author = {Rothe, Chinmay},
@@ -58,6 +44,7 @@ temperature
   school = {Georgia Institute of Technology},
   type = {MS Capstone}
 }
+```
 
 ## Contact
 
