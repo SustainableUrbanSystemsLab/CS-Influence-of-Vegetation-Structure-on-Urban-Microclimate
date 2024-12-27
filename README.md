@@ -1,6 +1,8 @@
 # Influence of Vegetation Structure on Urban Microclimate
 
 <img src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CS-Influence-of-Vegetation-Structure-on-Urban-Microclimate/main/Figures/GraphicalAbstract.gif" width="500px">
+![RH-sec_DOE27_5hrs-GIF](https://github.com/user-attachments/assets/e886fd93-8fbc-4a2c-887b-cf80accee4cf)
+
 
 ## Abstract
 
@@ -22,6 +24,7 @@ The findings highlight the importance of tree size, stomatal resistance, LAD val
 ## Repository Structure
 
 - `thesis.pdf`: https://www.dropbox.com/scl/fi/fkjh7nna98vmjcdemg9bv/CR_Capstone_Final_Research_Paper.pdf?rlkey=ki5mvpbm8y3msfk5nbflwbj60&st=kfg09wxr&dl=0
+- [CR_Capstone_Final_Research_Paper.pdf](https://github.com/user-attachments/files/18256268/CR_Capstone_Final_Research_Paper.pdf)
 - `code/case files`: https://www.dropbox.com/scl/fo/kyucwjh1xg6hdry0u9v67/AMpwtx523QtVn5jWpckt7O0?rlkey=20yucwk26xyjuv74jgfztbz8m&st=izroyd6o&dl=0
 - `data/`: https://www.zotero.org/groups/5638822/urbanmicroclimatefoam 
 - `figures/`: https://www.dropbox.com/scl/fo/fwr2cns478ybc2e80r002/ADT_hLIXTR-j6B7vwhAWi-k?rlkey=145i6k70zznwqt7736s1f6n2l&st=menqte3r&dl=0
