@@ -1,16 +1,14 @@
 # Influence of Vegetation Structure on Urban Microclimate
 
-https://github.com/user-attachments/assets/9ce69dc1-65fb-482f-a56c-b982566c63c9
+![24hrs_V2B](Figures/24hrs_V2B.mp4)
 
-![RH-sec_DOE27_5hrs-GIF](https://github.com/user-attachments/assets/a4eb4fb5-727b-46d2-8539-092d7a667e20)
-
-
+![RH-sec_DOE27_5hrs-GIF](Figures/GraphicalAbstract.gif)
 
 ## Abstract
 
 The importance of vegetation in mitigating the urban heat island effect by cooling the urban microclimate cannot be overstated, especially given the rapid urbanization that impacts it. Urban microclimate parameters, such as temperature and humidity changes in the atmosphere, further influence the adverse effects on outdoor thermal comfort.  
 
-This study examines vegetation’s cooling potential by evaluating different characteristics, such as stomatal resistance, moisture content, leaf temperature, and heat transfer coefficients, among different tree sizes. The primary objective is to simulate an urban scenario using urbanmicroclimateFOAM, incorporating detailed characteristics of a single vegetation species, Acerrubrum (red maple), and an urban block model over multiple hours daily. Using an EPW file enables accurate input of local climate data to optimize results.  
+This study examines vegetation’s cooling potential by evaluating different characteristics, such as stomatal resistance, moisture content, leaf temperature, and heat transfer coefficients, among different tree sizes. The primary objective is to simulate an urban scenario using _urbanmicroclimateFOAM_, incorporating detailed characteristics of a single vegetation species, Acerrubrum (red maple), and an urban block model over multiple hours daily. Using an EPW file enables accurate input of local climate data to optimize results.  
 
 The findings highlight the importance of tree size, stomatal resistance, LAD value, and wind speed in affecting the moisture content and temperature of the surrounding environment, further affecting the cooling potential and thermal comfort. Moreover, the effect of different-sized red maple trees on surrounding temperature and their location can considerably alter temperature and moisture content. Furthermore, vegetation and climate parameters influence heat transfer and evapotranspiration, highlighting their role in urban cooling. Future research should expand on this work by examining different species and soil characteristics for a more comprehensive understanding of the cooling potential through vegetation in the urban microclimate.  
 
@@ -26,7 +24,7 @@ The findings highlight the importance of tree size, stomatal resistance, LAD val
 ## Repository Structure
 
 - `thesis.pdf`: https://www.dropbox.com/scl/fi/fkjh7nna98vmjcdemg9bv/CR_Capstone_Final_Research_Paper.pdf?rlkey=ki5mvpbm8y3msfk5nbflwbj60&st=kfg09wxr&dl=0
-- [CR_Capstone_Final_Research_Paper.pdf](https://github.com/user-attachments/files/18256268/CR_Capstone_Final_Research_Paper.pdf)
+- [CR_Capstone_Final_Research_Paper.pdf](CR_Capstone_Final_Research_Paper.pdf)
 - `code/case files`: https://www.dropbox.com/scl/fo/kyucwjh1xg6hdry0u9v67/AMpwtx523QtVn5jWpckt7O0?rlkey=20yucwk26xyjuv74jgfztbz8m&st=izroyd6o&dl=0
 - `data/`: https://www.zotero.org/groups/5638822/urbanmicroclimatefoam 
 - `figures/`: https://www.dropbox.com/scl/fo/fwr2cns478ybc2e80r002/ADT_hLIXTR-j6B7vwhAWi-k?rlkey=145i6k70zznwqt7736s1f6n2l&st=menqte3r&dl=0
