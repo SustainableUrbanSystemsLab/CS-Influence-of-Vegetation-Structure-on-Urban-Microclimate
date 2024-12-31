@@ -1,8 +1,8 @@
 # Influence of Vegetation Structure on Urban Microclimate
 
-![24hrs_V2B](/Figures/24hrs_V2B.mp4)
+![24hrs_V2B](./Figures/24hrs_V2B.mp4)
 
-![RH-sec_DOE27_5hrs-GIF](/Figures/GraphicalAbstract.gif)
+![RH-sec_DOE27_5hrs-GIF](./Figures/GraphicalAbstract.gif)
 
 ## Abstract
 
