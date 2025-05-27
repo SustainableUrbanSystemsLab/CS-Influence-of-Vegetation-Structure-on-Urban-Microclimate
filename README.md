@@ -1,11 +1,11 @@
 # Influence of Vegetation Structure on Urban Microclimate
 
-<video width="500px" controls>
+<video width="930px" controls>
   <source src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CS-Influence-of-Vegetation-Structure-on-Urban-Microclimate/main/Figures/24hrs_V2B.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-<img src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CS-Influence-of-Vegetation-Structure-on-Urban-Microclimate/main/Figures/GraphicalAbstract.gif" width="500px">
+<img src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CS-Influence-of-Vegetation-Structure-on-Urban-Microclimate/main/Figures/GraphicalAbstract.gif" width="930px">
 
 ## Abstract
 
